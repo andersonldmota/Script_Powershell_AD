@@ -1,0 +1,2 @@
+sAMAccountName, Manager
+jose.silva, joao.silva
